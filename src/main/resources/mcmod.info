@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thaumcraftgamemods",
+  "name": "ThaumcraftGameMods",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["joserobjr"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,27 @@
+#eclipse
+.project
+.classpath
+.metadata
+org.*
+bin
+eclipse
+
+#idea
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+#gradle
+build
+.gradle
+
+#runtime
+run
+
+#mac
+.DS_Store
+
+#copyrighted libs
+libs
